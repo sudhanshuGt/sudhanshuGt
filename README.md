@@ -1,4 +1,4 @@
-### Hi there , I'm sudhanshu tiwari 👋
+### Hi there 👋
 
 
 - 🔭 I’m currently working on andorid studio project
