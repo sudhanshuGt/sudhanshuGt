@@ -13,5 +13,5 @@
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/SudhanshuT__)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sudhanshuGt&icon=0&color=0)]
+[![](https://visitcount.itsvg.in/api?id=sudhanshuGt&icon=0&color=0)
 
